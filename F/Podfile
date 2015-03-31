@@ -1,0 +1,22 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+target 'F' do
+
+pod "PodsDemo", :path=>"../PodsLib"
+#pod "Nimbus/Core"
+#pod "Nimbus/Models"
+
+end
+
+target 'FTests' do
+
+end
+
+target 'FF' do
+
+end
+
+target 'FFTests' do
+
+end
